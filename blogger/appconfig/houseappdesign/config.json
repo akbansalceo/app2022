@@ -17,7 +17,7 @@
 		"onesignal_app_id": "0855da51-0ba7-45dc-b790-000000000"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
 		"admob_publisher_id": "pub-8936249544471578",
 		"admob_app_id": "ca-app-pub-8936249544471578~2136480695",
