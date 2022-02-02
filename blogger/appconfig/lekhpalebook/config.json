@@ -18,19 +18,19 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "blogger_ebook_app_topic",
-		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+		"fcm_notification_topic": "lekhpal_ebook_app_topic",
+		"onesignal_app_id": "67ab2cb7-e9ca-4595-9486-32c2322bae6a"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
-		"admob_publisher_id": "pub-3940256099942544",
-		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"admob_publisher_id": "pub-8936249544471578",
+		"admob_app_id": "ca-app-pub-8936249544471578~9545370884",
+		"admob_banner_unit_id": "ca-app-pub-8936249544471578/5046393689",
+		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/5462611483",
+		"admob_native_unit_id": "ca-app-pub-8936249544471578/3343536998",
+		"admob_app_open_ad_unit_id": "ca-app-pub-8936249544471578/3670840054",
 		"startapp_app_id": "0",
 		"unity_game_id": "4089993",
 		"unity_banner_placement_id": "banner",
